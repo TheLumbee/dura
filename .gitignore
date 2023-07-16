@@ -1,5 +1,5 @@
 .vscode
-.qmake.stash
 dura
 Makefile
-.objects_dir
+test
+build
